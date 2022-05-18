@@ -1,4 +1,4 @@
-.TH hsh 1 "21 March 2018" "1.0" "Holberton simple_shell Manual"
+.TH hsh 1 "18 May 2022" "1.0" "simple_shell Manual"
 
 .SH NAME
 hsh \- Simple UNIX shell
